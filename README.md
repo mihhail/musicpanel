@@ -1,3 +1,3 @@
 musicpanel
-TEST
+sTEST
 ==========
